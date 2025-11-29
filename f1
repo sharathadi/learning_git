@@ -5,3 +5,4 @@ aws
 docker
 kubernetes
 ansible
+terraform
